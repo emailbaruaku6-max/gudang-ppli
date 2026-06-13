@@ -9,8 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  intl: ^0.18.1
+  http: any
+  intl: any
 
 flutter:
   uses-material-design: true
